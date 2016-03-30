@@ -1,4 +1,5 @@
-# Bash License citations for Carthage 
+# Carthage - Licenses 
+#### batch generate License citations from Carthage dependancies
 
 Useful for grab License text from Carthage dependancies
 As Carthage updates library frameworks for your project, the License citation page should also updates dynamically. 
