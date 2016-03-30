@@ -26,8 +26,10 @@ License:Array
 
 ### 3 - LicenseViewController 
 
-reads the License.plist once viewDidLoad, loops through the array and concantenated a long string
-generated UIView that fills deviceScreen, sets enableScroll to true for the daydreamers who mindlessly caress their screens
+- reads the License.plist once viewDidLoad, 
+- loops through the array and concantenated a long string
+- generated UIView that fills deviceScreen, 
+- sets enableScroll to true for the daydreamers who mindlessly caress their screens
 ALL SET ! 
 
 Thanks to @HirokiTerashima0816
